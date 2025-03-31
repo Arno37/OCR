@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet OCR
 
 Ce projet utilise l'OCR pour extraire des données de factures.
@@ -167,3 +168,6 @@ python main.py
 - Multilingue OCR
 - Recommandations produit/client basées sur les données extraites
 - Intégration de plusieurs services OCR avec comparaison automatique
+=======
+# OCR
+>>>>>>> 45a70b73f8b5ee8c824fc2a9e2c228eb0608c871
