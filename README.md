@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Projet OCR
 
 Ce projet utilise l'OCR pour extraire des données de factures.
